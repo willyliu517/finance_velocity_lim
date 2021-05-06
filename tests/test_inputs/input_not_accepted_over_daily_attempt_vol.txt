@@ -1,0 +1,4 @@
+{"id":"15887","customer_id":"531","load_amount":"$200.47","time":"2021-04-23T12:00:00Z"}
+{"id":"15888","customer_id":"531","load_amount":"$200.00","time":"2021-04-23T13:00:00Z"}
+{"id":"15889","customer_id":"531","load_amount":"$300.00","time":"2021-04-23T14:00:00Z"}
+{"id":"15890","customer_id":"531","load_amount":"$1000.00","time":"2021-04-23T15:00:00Z"}
